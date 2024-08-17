@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ArthurNaue
-- 👀 I’m interested in games
-- 🌱 I’m currently learning HTML, CSS and Pygame
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Godot
 - 📫 How to reach me: arthurnaue.github.io/Site
