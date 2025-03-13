@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ArthurNaue
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Godot
-- 📫 How to reach me: arthurnaue.github.io/Site
+Godot Game Developer currently learning C and SDL
