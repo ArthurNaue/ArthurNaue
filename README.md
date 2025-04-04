@@ -1,5 +1,3 @@
-# 19 years old Brazilian graphics programming student  
-
 ## Education  
 
 Currently at the 3rd semester of the **Internet Systems** superior course at **IFSC** (Instituto Federal de Santa Catarina) - Garopaba / Santa Catarina    
